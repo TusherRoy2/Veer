@@ -1,0 +1,418 @@
+
+@media (max-width:1199px){
+    .team-all{
+        width:200px;
+        height:320px;
+    }
+    .team-all img{
+        width:200px;
+        height:200px;
+    }
+    
+    .team-all .team-opacity{
+        width:200px;
+        height:200px;
+    }
+    /* veer-team-area end */
+    .veer-blog-area .approach .blog-img{
+        width:155px;
+        margin-right:20px
+    }
+    /* veer-blog-area end */
+    .veer-form form{
+        width:600px;
+        margin: 0 auto;
+    }
+    .veer-form form .name-email input{
+        width:295px;
+    }
+    .veer-form form .mass input{
+        width:600px;
+    }
+}
+
+@media (max-width:991px){
+    .veer-menu .icon .fa-bars{
+        display:block
+    }
+    .veer-menu ul{
+        display:none;
+        position:absolute;
+        top:15%;
+        left:0;
+        background:#3d9cd8;
+        height:310px;
+        width:100%;
+        padding:10px 0;
+        z-index: 1;
+    }
+    .veer-menu ul li{
+        margin-bottom:20px;
+    }
+    .veer-menu ul li:hover{
+        background-color: #fff;
+    }
+    .veer-menu ul li:hover a{
+        color:#3d9bd7;
+    }
+    .veer-menu .icon .fa-times{
+        display:none;
+    }
+    /* header area end */
+    .veer-section-1 .veer-img{
+        margin:90px auto 0;
+        width:400px;
+        height:325px;
+    }
+    .cmn-text h2::before{
+        left:46%;
+    }
+    .cmn-text h2::after{
+        right:35%;
+    }
+    /* veer-service-area end */
+    .veer-vino-box .zl{
+        left:47.7%;
+    }
+    /* veer-vino-box end */
+    .veer-team-area{
+        width:90%;
+        margin:0 auto !important;
+    }
+    .team-all{
+        width:270px;
+        height:380px;
+        margin:0 auto 30px;
+    }
+    .team-all img{
+        width:270px;
+        height:270px;
+    }
+    .team-all .team-opacity{
+        width:270px;
+        height:270px;
+    }
+    /* veer-team-area end */
+    .approach .blog-all{
+        margin-bottom:50px;
+    }
+    .certificate{
+        width:60%;
+        margin:0 auto 120px;
+    }
+    .certificate .cer-icon{
+        margin-bottom:30px;
+    }
+    /* veer-blog-area end */
+    .veer-form{
+        width:90%;
+        margin:0 auto;
+        padding:50px 50px 20px;
+    }
+    .veer-form{
+        width:80%;
+        margin:0 auto;
+        padding:50px 20px 20px;
+    }
+    .veer-form form{
+        width:100%;
+        margin: 0 auto;
+    }
+    .veer-form form .name-email{
+        display: block;
+    }
+    .veer-form form .name-email input{
+        width:100%;
+    }
+    .veer-form form .mass input{
+        width:100%;
+    }
+}
+
+@media (max-width:860px){
+    .veer-vino-box .zl{
+        left:47.2%;
+    }
+    /* veer-vino-box end */
+    
+}
+
+@media (max-width:800px){
+    .veer-section-1 .veer-img{
+        margin:90px auto 0;
+        width:380px;
+        height:305px;
+    }
+}
+
+@media (max-width:768px){
+    .veer-section-1 i{
+        font-size:28px
+    }
+    .veer-section-1 h3{
+        font-size:32px;
+    }
+    .veer-section-1 span{
+        font-size:13px;
+    }
+    .veer-section-1 a{
+        font-size: 11px;
+        padding:12px 20px;
+    }
+    /* veer-section-1 end */
+    .cmn-text h2::before{
+        left:45%;
+    }
+    .cmn-text h2::after{
+        right:30%;
+    }
+    /* veer-service-area end */
+    .client p{
+        width:70.5%;
+        margin:0 auto 20px;
+    }
+    /* veer-client-end */
+    .certificate .cer-icon:last-child{
+        width:50%;
+        margin:0 auto;
+    }
+    /* veer-blog-area end */
+    .veer-form form a{
+        padding:8px 16px;
+        font-size:14px;
+    }
+}
+
+@media (max-width:700px){
+    .veer-vino-box .zl{
+        left:46.5%;
+    }
+    /* veer-vino-box end */
+    .veer-form form .mass input{
+        padding:5px 20px 90px;
+        margin-bottom:30px;
+    }
+    
+}
+
+@media (max-width:575px){
+    .approach .blog-all{
+        width:90%;
+        margin:0 auto 50px;
+    }
+    .veer-blog-area .approach img{
+        width:150px;
+        height:180px;
+    }
+    .certificate .cer-icon img{
+        height:80px;
+        width:auto;
+    }
+    /* veer-blog area end */
+}
+
+@media (max-width:550px){
+    .veer-vino-box .zl{
+        left:45.5%;
+    }
+    /* veer-vino end */
+    .veer-work img{
+        width:80%;
+        margin:0 auto 20px;
+    }
+    /* veer work end */
+    .certificate{
+        width:80%;
+        margin:0 auto 120px;
+    }
+    /* veer-blog-area end */
+    .veer-form form a{
+        padding:5px 10px;
+        font-size:12px;
+    }
+}
+
+@media (max-width:500px){
+    .veer-Ftext h1{
+        font-size:50px;
+    }
+    /* header end */
+    .veer-section-1 i{
+        font-size:23px;
+    }
+    .veer-section-1 h3{
+        font-size:28px;
+    }
+    .veer-section-1 span{
+        font-size:13px;
+    }
+    .veer-section-1 a{
+        font-size: 10px;
+        padding:10px 20px;
+    }
+    .veer-section-1 .veer-img .veer-before{
+        width:120px;
+        height:55px;
+        left:-20px
+    }
+    .veer-section-1 .veer-img .veer-after{
+        width:80px;
+        height:55px;
+        bottom:-20px;
+        right:-20px;
+    }
+    .veer-section-1 .veer-img{
+        margin:90px auto 0;
+        width:310px;
+        height:245px;
+    }
+    /* veer-section end */
+    .cmn-text h2::before{
+        width:80px;
+        left:46%;
+    }
+    .cmn-text h2::after{
+        width:80px;
+        right:29%;
+    }
+    .cmn-text h2{
+        font-size:30px;
+    }
+    .cmn-text p{
+        font-size:12px;
+    }
+    .ser-all .ser-img img{
+        width:60px;
+    }
+    .ser-all p{
+        font-size:14px;
+    }
+    .ser-all span{
+        font-size:12px;
+    }
+    /* veer-service-area end */
+    .team-all{
+        width:200px;
+        height:290px;
+    }
+    .team-all img{
+        width:200px;
+        height:200px;
+        margin-bottom:20px
+    }
+    .team-all p{
+        font-size:12px;
+        margin-bottom:10px;
+    }
+    .team-all span{
+        font-size: 13px;
+        margin-bottom:20px;
+    }
+    .team-all .team-opacity{
+        width:200px;
+        height:200px;
+    }
+    /* veer team-area end */
+    .veer-form form h4{
+        font-size:17px;
+    }
+}
+
+@media (max-width:450px){
+    .cmn-text h2::before{
+        width:80px;
+        left:45%;
+    }
+    .cmn-text h2::after{
+        width:80px;
+        right:29%;
+    }
+    /* veer-service-area end */
+    .veer-vino-box .zl{
+        left:45.0%;
+    }
+    /* veer-vino-box end */
+    .veer-form form .mass input{
+        padding:5px 20px 60px;
+        margin-bottom:30px;
+    }
+    /* veer-form area end */
+    .certificate .cer-icon img{
+        height:70px;
+        width:auto;
+    }
+    .veer-blog-area .approach img{
+        width:130px;
+        height:170px;
+    }
+    /* veer-blog area end */
+    .client span{
+        font-size:13px;
+    }
+    .client ul li i{
+        font-size: 13px;
+    }
+}
+
+@media (max-width:380px){
+    .veer-Ftext h1{
+        font-size:40px;
+    }
+    .veer-Ftext i{
+        font-size:17px;
+    }
+    /* header end */
+    .veer-section-1 .veer-img{
+        margin:90px auto 0;
+        width:260px;
+        height:205px;
+    }
+    .veer-section-1 i{
+        font-size:21px;
+    }
+    .veer-section-1 h3{
+        font-size:25px;
+    }
+    .veer-section-1 span{
+        font-size:12px;
+    }
+    .veer-section-1 a{
+        font-size: 10px;
+        padding:8px 16px;
+    }
+    /* veer-section-1 end */
+    .cmn-text h2::before{
+        width:75px;
+        left:43%;
+    }
+    .cmn-text h2::after{
+        width:75px;
+        right:24%;
+    }
+    .cmn-text h2{
+        font-size:28px;
+    }
+    .cmn-text p{
+        font-size:11px;
+    }
+    /* veer-service-area end */
+    .veer-vino-box .zl{
+        left:43.5%;
+    }
+    /* veer-vino-box end */
+    .certificate{
+        width:95%;
+        margin:0 auto 120px;
+    }
+    /* veer-blog-area end */
+    .veer-form form .mass input{
+        padding:5px 20px 40px;
+    }
+    /* veer-form-area end */
+    footer .footer-icon ul li{
+        margin-right:15px
+    }
+    .footer-menu ul li{
+        margin-right:15px
+    }
+}
